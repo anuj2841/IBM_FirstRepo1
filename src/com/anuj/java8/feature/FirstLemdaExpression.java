@@ -45,7 +45,7 @@ class Product {
 
 public class FirstLemdaExpression {
 	public static void main(String args[]) {
-		System.out.println("Hi anuj singh");
+		System.out.println("Hi anuj singh 8888");
 		Product p1=new Product(101,"Product1",60.00);
 		Product p2=new Product(102,"Product2",30.00);
 		Product p3=new Product(103,"Product3",50.00);
